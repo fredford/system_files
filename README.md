@@ -1,6 +1,21 @@
 # System Files
  A series of system files that I use to install, update and provide configuration.
 
+
+## Packages used
+
+- Kitty
+- i3
+- GitHub-Desktop
+- Discord
+- Visual Studio Code
+- Google Chrome
+
+## Themes and Fonts used
+
+- **Font**: IBM Plex Mono
+- **Theme**: Catppuccin-GTK-Theme-Macchiato
+
 ## Installation
 
 Install base requirements
