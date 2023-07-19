@@ -1,10 +1,15 @@
 # System Files
+ 
  A series of system files that I use to install, update and provide configuration.
-
 
 ## Packages used
 
-- Kitty
+
+### ALR (pacman)
+- emacs
+- kitty
+
+### AUR (yay)
 - i3
 - GitHub-Desktop
 - Discord
